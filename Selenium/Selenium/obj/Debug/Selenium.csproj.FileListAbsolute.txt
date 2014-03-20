@@ -1,0 +1,17 @@
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\Selenium.dll
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\Selenium.pdb
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\WebDriver.dll
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\WebDriver.Support.dll
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\ThoughtWorks.Selenium.Core.xml
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\WebDriver.pdb
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\WebDriver.xml
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\WebDriver.Support.pdb
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\bin\Debug\WebDriver.Support.xml
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\obj\Debug\Selenium.dll
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\obj\Debug\Selenium.pdb
+C:\Users\HETest\Documents\Visual Studio 2013\Projects\Selenium\Selenium\obj\Debug\Selenium.csprojResolveAssemblyReference.cache
